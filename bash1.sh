@@ -2,26 +2,7 @@
 
 
 
-# 2 inputs:
 
-
-#if [[ $? == 0  ]]; then
-#    echo $?
- #   echo "commad  ran succ"
-#else
- #   echo $?
-  #  echo "command didnt run succ"
-#fi
-
-#declare NAME="MARO"
-#echo ${NAME}
-
-#declare fileext=${1##*.}
-#echo "${fileext}"
-#
-#if [[ "hello world" == *"world"* ]]; then
- #   echo "hello world" contains: "world"
-#fi
 
 declare exten
 declare listfiles=`ls -a  /home/marwan/test1`
