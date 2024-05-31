@@ -1,5 +1,7 @@
 #!/usr/bin/bash
 
+#Bash Script to manage files and sort files in terms of their extenstion in seperate directorys 
+# You can change the directory to yours or change the code to $1 ,,$2...$n
 
 
 declare exten
